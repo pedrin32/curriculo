@@ -5,8 +5,8 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
-  phone: 0123 456 78900
+  email: pedrohenriquesoaresdemelo2002@gmail.com
+  phone: 55 84 99116-8377
   website: https://yourwebsite.com
   linkedin: stevedoe
   github: stevedoe
@@ -18,7 +18,7 @@ header:
   goodreads: # Number-Username, e.g. 123456-alandoe
 
 languages:
-  - idiom: English
+  - idiom: portugues
     level: Native
   - idiom: French
     level: Professional
